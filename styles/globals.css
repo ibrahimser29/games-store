@@ -621,7 +621,7 @@ margin-top: 160px;
 @media screen and (max-width:800px) {
   .hero-banner-container{
     height: 560px;
-    background: url('/assets/images/lastofus2.jpg');
+    background: url('/assets/images/lastofus2-min.jpg');
     background-size: cover;
     color: white;
   }
